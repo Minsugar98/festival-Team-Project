@@ -20,8 +20,12 @@
   - Board
     | 축제 커뮤니ㅣ 제공
   - AWS S3
-  
+
+### **기술 스택**
+- **Express, Prisma, NodeJS**
+- **AWS S3, PostgreSQL, Github**
 ## **📂 프로젝트 구조**
+
 <details>
   <summary>폴더 구조 보기</summary>
 <pre>
